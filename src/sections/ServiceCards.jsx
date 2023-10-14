@@ -4,8 +4,8 @@ import specialistBooking from "../assets/specialist-booking.png";
 
 const ServiceCards = () => {
   return (
-    <div className="xl:px-32 pt-12 py-24 grid gap-12 grid-cols-12">
-      <div className="rounded-3xl bg-white shadow-md col-span-6">
+    <div className="xl:px-32 pt-12 py-24 grid lg:gap-12 grid-cols-12">
+      <div className="rounded-3xl bg-white shadow-md col-span-12 lg:col-span-6">
         <div className="bg-gradient-to-b m-3 from-[#40bbc462] rounded-[14px] p-12 to-[white] flex flex-col justify-center items-center">
           <img className=" mb-6" src={virtualClinic} />
           <p className=" font-[prompt] text-center text-[20px]">
@@ -18,7 +18,7 @@ const ServiceCards = () => {
         </div>
       </div>
 
-      <div className="rounded-3xl bg-white shadow-md col-span-6">
+      <div className="rounded-3xl bg-white shadow-md col-span-12 lg:col-span-6">
         <div className="bg-gradient-to-b m-3 from-[#40bbc462] rounded-[14px] p-12 to-[white] flex flex-col justify-center items-center">
           <img className=" mb-6" src={specialistBooking} />
           <p className=" font-[prompt] text-center text-[20px]">

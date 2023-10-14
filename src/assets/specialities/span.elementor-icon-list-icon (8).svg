@@ -1,0 +1,26 @@
+<svg width="109" height="108" viewBox="0 0 109 108" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_2_594)">
+<rect x="4.76465" y="4" width="100" height="100" rx="50" fill="white" shape-rendering="crispEdges"/>
+<path d="M40.7646 68L26.7646 82" stroke="#029967" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square"/>
+<path d="M54.7646 42L58.7646 46" stroke="#029967" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square"/>
+<path d="M48.7646 48L52.7646 52" stroke="#029967" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square"/>
+<path d="M42.7646 54L46.7646 58" stroke="#029967" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square"/>
+<path d="M71.7646 43L81.7646 33" stroke="#029967" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M75.7646 27L65.7646 37" stroke="#029967" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M54.7646 26L82.7646 54" stroke="#029967" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square"/>
+<path d="M72.7646 24L84.7646 36" stroke="#029967" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M74.7646 46L46.7646 74L34.7646 62L62.7646 34" stroke="#029967" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square"/>
+</g>
+<defs>
+<filter id="filter0_d_2_594" x="0.764648" y="0" width="108" height="108" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.00784314 0 0 0 0 0.6 0 0 0 0 0.403922 0 0 0 1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_2_594"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_2_594" result="shape"/>
+</filter>
+</defs>
+</svg>

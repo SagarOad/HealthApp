@@ -2,26 +2,23 @@ import React from "react";
 
 const Navbar = () => {
   return (
-    <div className="xl:px-32 py-8 relative">
+    <div className="xl:px-32 lg:px-20 px-12 py-8 relative">
       <nav className="w-full flex justify-between items-center z-20">
         <div>
-            <h1 className=" text-white font-[lexend] text-[34px]">Logo</h1>
+          <h1 className=" text-white font-[lexend] text-[34px]">Logo</h1>
         </div>
         <div className=" flex flex-wrap items-center">
-          <a className="flex items-center">
-            
-            
-          </a>
-          <div className="flex md:order-2 ml-24">
+          <a className="flex items-center"></a>
+          <div className="lg:flex-col flex-row justify-center items-center md:order-2 lg:ml-24 ml-14">
             <button
               type="button"
-              className="text-white bg-[#029967] font-thin focus:ring-none font-[lexend] rounded-lg  px-8 py-3 "
+              className="text-white bg-[#029967] mb-2 text-[14px] font-thin focus:ring-none w-[160px] font-[lexend] rounded-lg  px-4 lg:py-3 py-1 "
             >
               Login / Signup
             </button>
             <button
               type="button"
-              className="text-[#2A2A2A] bg-[white] ml-8 font-normal focus:ring-none font-[lexend] rounded-lg  px-8 py-3 "
+              className="text-[#2A2A2A] bg-[white] text-[14px] font-thin focus:ring-none w-[160px] font-[lexend] rounded-lg  px-4 lg:py-3 py-1 lg:ml-8 "
             >
               Join as Doctor
             </button>
@@ -65,26 +62,17 @@ const Navbar = () => {
                 </a>
               </li>
               <li>
-                <a
-                  href="#"
-                  className="block py-2 pl-3 pr-4 rounded  md:p-0"
-                >
+                <a href="#" className="block py-2 pl-3 pr-4 rounded  md:p-0">
                   Services
                 </a>
               </li>
               <li>
-                <a
-                  href="#"
-                  className="block py-2 pl-3 pr-4 rounded  md:p-0"
-                >
+                <a href="#" className="block py-2 pl-3 pr-4 rounded  md:p-0">
                   Labs & Diagnostics
                 </a>
               </li>
               <li>
-                <a
-                  href="#"
-                  className="block py-2 pl-3 pr-4 rounded  md:p-0"
-                >
+                <a href="#" className="block py-2 pl-3 pr-4 rounded  md:p-0">
                   Contact
                 </a>
               </li>
