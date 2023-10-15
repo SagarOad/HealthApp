@@ -5,7 +5,7 @@ const Navbar = () => {
     <div className="xl:px-32 lg:px-20 px-12 py-8 relative">
       <nav className="w-full flex justify-between items-center z-20">
         <div>
-          <h1 className=" text-white font-[lexend] text-[34px]">Logo</h1>
+          <h1 className=" text-white font-[lexend] text-[34px]"></h1>
         </div>
         <div className=" flex flex-wrap items-center">
           <a className="flex items-center"></a>
